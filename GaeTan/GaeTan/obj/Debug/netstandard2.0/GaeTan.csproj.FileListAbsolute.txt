@@ -1,0 +1,7 @@
+C:\Users\Olivier Kra\source\repos\GaeTan\GaeTan\GaeTan\bin\Debug\netstandard2.0\GaeTan.deps.json
+C:\Users\Olivier Kra\source\repos\GaeTan\GaeTan\GaeTan\bin\Debug\netstandard2.0\GaeTan.dll
+C:\Users\Olivier Kra\source\repos\GaeTan\GaeTan\GaeTan\obj\Debug\netstandard2.0\GaeTan.csprojAssemblyReference.cache
+C:\Users\Olivier Kra\source\repos\GaeTan\GaeTan\GaeTan\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Olivier Kra\source\repos\GaeTan\GaeTan\GaeTan\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Olivier Kra\source\repos\GaeTan\GaeTan\GaeTan\obj\Debug\netstandard2.0\GaeTan.AssemblyInfoInputs.cache
+C:\Users\Olivier Kra\source\repos\GaeTan\GaeTan\GaeTan\obj\Debug\netstandard2.0\GaeTan.AssemblyInfo.cs

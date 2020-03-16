@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaeTan.Android", "GaeTan\GaeTan.Android\GaeTan.Android.csproj", "{48F0F581-8A21-4B3B-ACFA-0EF54D1AE37D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaeTan", "GaeTan\GaeTan\GaeTan.csproj", "{BC015014-A856-40DE-B691-D2DD143F17A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F0F581-8A21-4B3B-ACFA-0EF54D1AE37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F0F581-8A21-4B3B-ACFA-0EF54D1AE37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F0F581-8A21-4B3B-ACFA-0EF54D1AE37D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{48F0F581-8A21-4B3B-ACFA-0EF54D1AE37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F0F581-8A21-4B3B-ACFA-0EF54D1AE37D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F0F581-8A21-4B3B-ACFA-0EF54D1AE37D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BC015014-A856-40DE-B691-D2DD143F17A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC015014-A856-40DE-B691-D2DD143F17A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC015014-A856-40DE-B691-D2DD143F17A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC015014-A856-40DE-B691-D2DD143F17A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC015014-A856-40DE-B691-D2DD143F17A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC015014-A856-40DE-B691-D2DD143F17A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D484248-0795-430C-AA1F-F0C7043E9595}
+	EndGlobalSection
+EndGlobal
